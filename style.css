@@ -99,3 +99,101 @@
     margin-bottom: 0%;
     margin-top: 15px;
 }
+.plan-details p{
+    color: rgb(115, 114, 114);
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.mindset-part{
+    background-image: url(images/gradient3.png), url(images/watch.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 8px;
+    padding-bottom: 80px;
+    margin-right: 300px;
+    margin-top: 130px;
+}
+.mindset-part h2{
+    color: rgb(255, 255, 255);
+font-size: 40px;
+font-weight: 700;
+padding-right: 700px;
+padding-left: 60px;
+padding-top: 60px;
+}
+.secondary-button{
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    border: none;
+    color: rgb(241, 91, 34);
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding: 15px 20px;
+    margin-left: 60px;
+}
+
+/* footer-part */
+.footer-section{
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.footer-details{
+    display: flex;
+    
+}
+.footer-text{
+    margin-left: 410px;
+}
+.footer-text h1{
+    color: rgb(248, 248, 248);
+    font-size: 45px;
+    font-weight: 700;
+}
+.footer-text p{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 140px;
+    line-height: 26px;
+}
+
+.subscribe-part{
+    margin-right: 300px;
+}
+.subscribe-part h3{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.enter{
+    margin-bottom: 20px;
+    padding: 15px;
+    box-sizing: border-box;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: black;
+    color: rgb(243, 243, 243);
+    font-size: 18px;
+    font-weight: 400;
+}
+.secondary-button-y{
+    border-radius: 5px;
+    background: rgb(255, 255, 255);
+    border: none;
+    color: rgb(241, 91, 34);
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding: 15px 20px;
+}
+
+.social{
+    display: flex;
+    gap: 20px;
+
+}
